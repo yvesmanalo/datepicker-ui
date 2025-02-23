@@ -7,7 +7,7 @@ This project contains the following file(s) and folder:
 - **styles folder** - This folder contains styles.css for the design of the datepicker
   
 ## Preview
-Here's the [preview](https://yvesmanalo.github.io/testimonial-cards/) of how the datepicker looks like.
+Here's the [preview](https://yvesmanalo.github.io/datepicker-ui/) of how the datepicker looks like.
 
 ## Project Details:
 This project was built based on the [project details](https://roadmap.sh/projects/datepicker-ui) provided by [roadmap.sh](https://roadmap.sh/).
